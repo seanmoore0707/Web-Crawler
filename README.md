@@ -1,4 +1,7 @@
 # COMP30023-Crawler
+
+A Web-Crawler implementation in C Language.
+
 ### Run Crawler
 ```
 make clean && make && ./crawler absoluteURL
